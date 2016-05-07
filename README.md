@@ -1,4 +1,4 @@
-This is the toolchain required to build a working linux kernel for fread. Mirrored here in case the emdebian apt repositor goes down.
+This is the toolchain required to build a working linux kernel for fread. Mirrored here in case the emdebian apt repository goes down.
 
 
 All of the .deb files in here are from:
